@@ -14,8 +14,8 @@ from aiogram.types import (
 from aiogram.enums import ParseMode
 
 # ======================== НАСТРОЙКИ ========================
-BOT_TOKEN = "ВАШ_ТОКЕН_ОТ_BOTFATHER"
-ADMIN_IDS = [123456789]            # Ваши Telegram ID
+BOT_TOKEN = "8735590675:AAESiFJwwEAefwOM2oHxgoxMjFRz2TYXdFE"
+ADMIN_IDS = [1115269766]            # Ваши Telegram ID
 CHANNEL_ID = -1001234567890        # ID канала (начинается на -100)
 DB_PATH = "bot_database.db"        # Файл базы данных
 # ===========================================================
